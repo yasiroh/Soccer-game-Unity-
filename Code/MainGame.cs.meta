@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ef906e999f8c9d1408e1a745c2317311
+timeCreated: 1467481863
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - test: {instanceID: 0}
+  - field: {instanceID: 0}
+  - stadum: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - secondCamera: {instanceID: 0}
+  - menu1: {instanceID: 0}
+  - menu2: {instanceID: 0}
+  - Tclip17: {fileID: 8300000, guid: 6d3d7a9bfab5cf8429e13a5f4ca274f8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
